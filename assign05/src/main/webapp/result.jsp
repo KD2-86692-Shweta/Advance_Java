@@ -39,7 +39,7 @@ ${sd.fetchCandidates()}
 	   <td>${s.votes}</td>
 
 	   <td>
-	    <button ><a href="edit.jsp?id=${s.id}">Edit</a></button>
+	    <button ><a href="editcand.jsp?id=${s.id}">Edit</a></button>
 	   <button> <a href="delete.jsp?id=${s.id}"> Delete</a></button>
 	  
 	   
