@@ -56,6 +56,7 @@ ${sd.fetchCandidates()}
 <p>${param.msg}</p>
 	<p>
 	<a href="logout.jsp">Sign Out</a>
+	<a href="AddCandidate.jsp">Add Candidate</a>
 	</p>
 </body>
 </html>
